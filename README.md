@@ -34,7 +34,7 @@
 ![MUI](https://img.shields.io/badge/mui-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### KEEP LEARNING ABOUT:
+### KEEP LEARNING:
 ![ANGULAR](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CYPRESS.IO](https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
