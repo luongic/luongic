@@ -20,7 +20,7 @@
 
 <hr>
 
-<h1 align="left">⊳ SKILL :</h1>
+<h1 align="left">⊳ SKILLS :</h1>
 
 
 ### FOR WORKING: 
