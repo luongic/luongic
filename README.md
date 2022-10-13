@@ -9,8 +9,8 @@
 
 ### <h1 align="left"> ⊳ About me: </h1>
 
-- Sever: VIETNAM 🇻🇳
-- ID: Lehienluong ♎
+- Sever: VIETNAM 🌍
+- ID: lehienluong ♎
 - Charactor: Human-Male ♂
 - StartDay: 24/09/2000 🕒
 - Role: Front-end Developer 💻
