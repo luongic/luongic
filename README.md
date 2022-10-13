@@ -28,6 +28,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/redux-%2338B2AC.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 
 <hr/>
