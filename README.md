@@ -13,8 +13,8 @@
 - ID: Lehienluong ♎
 - Charactor: Human-Male ♂
 - StartDay: 24/09/2000 🕒
-- Level: 22 🎂
 - Role: Front-end Developer 💻
+- Level: Fresher 🦾
 
 
 
