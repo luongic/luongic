@@ -32,11 +32,13 @@
 ![React](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![GIT](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### FOR HOBBIES:
 
 ### TOOLS:
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![UNITY REAL](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=Grey)
 ![ADOBE AUDITION](https://img.shields.io/badge/ADOBE%20AUDITION-%239999FF.svg?style=for-the-badge&logo=adobe-audition&logoColor=white)
 ![LIGHTROOM](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
