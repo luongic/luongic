@@ -20,7 +20,7 @@
 
 <hr>
 
-<h1 align="left">⊳ What I have ?</h1>
+<h1 align="left">⊳ SKILL :</h1>
 
 
 ### FOR WORKING: 
@@ -34,7 +34,10 @@
 ![MUI](https://img.shields.io/badge/mui-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### FOR HOBBIES:
+### KEEP LEARNING ABOUT:
+![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CYPRESS.IO](https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### TOOLS:
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
