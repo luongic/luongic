@@ -9,7 +9,7 @@
 
 ### <h1 align="left"> ⊳ About me: </h1>
 
-- Sever: Earth 🌏
+- Sever: VIETNAM 🇻🇳
 - ID: Lehienluong ♎
 - Charactor: Human-Male ♂
 - StartDay: 24/09/2000 🕒
