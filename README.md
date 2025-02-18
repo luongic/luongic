@@ -67,7 +67,7 @@
 </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luongic&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&sideLabels=7F3ACE&ring=7F3ACE&fire=178600&currStreakLabel=178600&dates=FFFFFF&currStreakNum=FFFFFF&stroke=178600&sideNums=178600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luongic)](https://git.io/streak-stats)
 <hr />
 <br>
 <img src="https://komarev.com/ghpvc/?username=luongic&color=blueviolet">
