@@ -51,7 +51,7 @@
 <h1 align="left">
 ⊳ Power Analytics</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&border_radius=5.1&date_format=j%2Fn%5B%2FY%5D&card_width=540&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
 
 <p>
 <a href="https://github.com/luongic">
