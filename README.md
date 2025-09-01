@@ -17,13 +17,9 @@
 - Level: Junior 🦾
 
 
-
 <hr>
 
 <h1 align="left">⊳ SKILLS :</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
-
 
 ### FOR WORKING: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,15 +51,7 @@
 <h1 align="left">
 ⊳ Power Analytics</h1>
 
-
-
-<p>
-<a href="https://github.com/luongic">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luongic&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
 
 <p>
 <a href="https://github.com/luongic">
