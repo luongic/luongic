@@ -22,7 +22,7 @@
 
 <h1 align="left">⊳ SKILLS :</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
 
 
 ### FOR WORKING: 
@@ -70,11 +70,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luongic&layout=compact&langs_count=15&theme=midnight-purple"/>
 </a>
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luongic)](https://git.io/streak-stats)
-<hr />
-<br>
-<img src="https://komarev.com/ghpvc/?username=luongic&color=blueviolet">
-
-
-
