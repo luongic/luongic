@@ -51,6 +51,12 @@
 <h1 align="left">
 ⊳ Power Analytics</h1>
 
+<p>
+<a href="https://github.com/luongic">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luongic&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=luongic&theme=dark&border_radius=5.1&date_format=j%2Fn%5B%2FY%5D&card_width=540&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
 
 <p>
