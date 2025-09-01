@@ -22,6 +22,8 @@
 
 <h1 align="left">⊳ SKILLS :</h1>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
+
 
 ### FOR WORKING: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
