@@ -61,6 +61,8 @@
 </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&ring=7F3ACE&sideLabels=178600)](https://git.io/streak-stats)
+
 <p>
 <a href="https://github.com/luongic">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luongic&layout=compact&langs_count=15&theme=midnight-purple"/>
