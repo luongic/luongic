@@ -65,4 +65,4 @@
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luongic&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luongic&rank=-?&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
